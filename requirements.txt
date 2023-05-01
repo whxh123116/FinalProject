@@ -1,1 +1,14 @@
 # Add your third-party Python libraries here
+
+matplotlib
+pandas
+sqlalchemy==1.4.47
+matplotlib
+requests
+beautifulsoup4
+lxml
+numpy
+seaborn
+scipy
+geopandas
+keplergl

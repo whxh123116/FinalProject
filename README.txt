@@ -1,0 +1,3 @@
+﻿Project Group 16
+[ hw2914, jy3251]
+This project aims to analyze the hired-ride trip data from Uber and NYC Yellow cab from January 2009 through June 2015 by joining it with local historical weather data. The analysis will involve providing a single Jupyter notebook and SQL queries to answer specific questions related to the trip data. The data will be downloaded, cleaned, and stored in a SQLite database for easy access and manipulation. The project will also include visualizations to aid in the interpretation and communication of the results. There are four parts in the projects. The first part is data processing. The second part is storing data. The third part is understanding data. The fourth part is visualizing data.
